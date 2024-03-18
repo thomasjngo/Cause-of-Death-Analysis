@@ -1,4 +1,4 @@
-"Country Code","Country Name","Region ID","Region Name","Income Group Acronym","Income Group Name","Transaction Type ID","Transaction Type Name","Fiscal Year","current_amount","constant_amount"
+Country Code,Country Name,Region ID,Region Name,Income Group Acronym,Income Group Name,Transaction Type ID,Transaction Type Name,Fiscal Year,current_amount,constant_amount
 ABW,Aruba,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1999,19000,31338
 ABW,Aruba,6,Western Hemisphere,HIC,High Income Country,2,Obligations,2000,50000,80787
 ABW,Aruba,6,Western Hemisphere,HIC,High Income Country,2,Obligations,2004,1000,1487
@@ -21643,3 +21643,33 @@ ZWE,Zimbabwe,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,18,President'
 ZWE,Zimbabwe,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,18,President's Budget Requests,2022,218500000,218500000
 ZWE,Zimbabwe,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,18,President's Budget Requests,2023,221844709,211595124
 ZWE,Zimbabwe,5,Sub-Saharan Africa,LMIC,Lower Middle Income Country,18,President's Budget Requests,2024,223300850,208067157
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1990,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1991,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1992,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1993,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1994,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1995,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1996,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1997,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1998,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,1999,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,2,Obligations,2000,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2001,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2002,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2003,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2004,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2005,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2006,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2007,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2008,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2009,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2010,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2011,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2012,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2013,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2014,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2015,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2016,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2017,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2018,0,0
+USA,United States,6,Western Hemisphere,HIC,High Income Country,3,Obligations,2019,0,0
