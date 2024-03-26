@@ -3,8 +3,6 @@ Analyzes the common causes of death internationally from 1990 to 2019.
 
 ## Project by Grant G., Justin B., Karuna K., Harleen K., Thomas N., and Joseph C.
 
-## Presentation Link :: https://docs.google.com/presentation/d/1Zx367QBKt5cFCeYoxbwTpW4mv3mzjpL9DlzniNDk6M8/edit#slide=id.g2c572257242_2_93
-
 # Data Interception / Initial Dive
 We imported the Causes of Death CSV data set and initiated data cleaning and preparation tasks, including renaming columns, filtering columns, and changing data types. Next, we merged the following three data sets: the U.S. Foreign Aid data set, the Population data set, and the Geographic data set. After merging each data set, we used the same data-cleaning process to create different data frames to answer our questions.
 
