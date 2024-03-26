@@ -1,7 +1,7 @@
 # Common-Causes-of-Death-
-Analyzes the common causes of death internationally over 1990 to 2019.
+Analyzes the common causes of death internationally from 1990 to 2019.
 
-## Grant G. Justin B. Karuna K. Harleen K. Thomas N. Joseph C.
+## Project by Grant G., Justin B., Karuna K., Harleen K., Thomas N., and Joseph C.
 
 ## Presentation Link :: https://docs.google.com/presentation/d/1Zx367QBKt5cFCeYoxbwTpW4mv3mzjpL9DlzniNDk6M8/edit#slide=id.g2c572257242_2_93
 
