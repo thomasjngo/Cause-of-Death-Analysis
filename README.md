@@ -1,4 +1,4 @@
-# Common Causes of Death (1990-2019)
+# Cause of Death Analysis (1990-2019)
 Analyzes the common causes of death internationally from 1990 to 2019.
 
 ## Project by Grant G., Justin B., Karuna K., Harleen K., Thomas N., and Joseph C.
